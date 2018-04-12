@@ -1,1 +1,1 @@
-# Chores-Android-App
+# Chores Android App
